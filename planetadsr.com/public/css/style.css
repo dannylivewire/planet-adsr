@@ -1,0 +1,188 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:10px;
+	padding: 0px;
+	margin: 0px;
+}
+
+.clearboth {
+	clear:both;
+}
+
+/**
+============================= 
+============================= MAIN PLAYER ==========
+============================= 
+**/
+.video_content_container {
+	float:left;
+}
+.player {
+	margin-bottom:20px;
+}
+
+
+/**
+============================= 
+============================= VIDEO LIST ==========
+============================= 
+**/
+
+
+.playlist_container {
+	float: left; 
+}
+
+.playlist_container_horz {
+	float: left; 	
+}
+
+.playlist_prev {
+	cursor:pointer;
+	text-align:center;
+	float:left;
+	font-weight: bold;
+}
+
+.playlist_prev_separate {
+	cursor:pointer;
+	text-align:center;
+	float:left;
+	font-weight: bold;	
+}
+
+.playlist_next {
+	cursor:pointer;
+	text-align:center;
+	float:left;
+	font-weight: bold;
+}
+
+.playlist_next_separate {
+	cursor:pointer;
+	text-align:center;
+	float:left;
+	font-weight: bold;
+}
+
+.playlist_prev_horz {
+	cursor:pointer;
+	text-align:center;
+	float: left;
+}
+
+.playlist_prev_horz_separate {
+	cursor:pointer;
+	text-align:center;
+	float: left;
+}
+
+.playlist_next_horz {
+	cursor:pointer;
+	text-align:center;
+	float: left;
+}
+
+.playlist_next_horz_separate {
+	cursor:pointer;
+	text-align:center;
+	float: left;
+}
+
+.playlist_horz {
+	float:left;
+	
+}
+
+.divider {
+	height:10px;
+	width:320px;
+}
+
+.divider_vert {
+	width:10px;
+	float:left;
+}
+
+
+.video_container a {
+	color:#000;
+	text-decoration:none;
+}
+
+.video {
+	text-align: left;
+}
+
+.video_thumb {
+	float: left;	
+}
+
+.video_information {
+	float: left;
+	margin-left: 5px;
+}
+
+.video_title {
+	font-weight: bold;
+	margin-left: 5px;
+}
+
+.video_author {
+	margin-left:5px;
+	line-height:20px;
+	font-style:italic;
+	float:right;
+}
+
+.video_description {
+	margin-left: 5px;
+}
+
+.video_views {
+	margin-left: 5px;
+	margin-top:5px;
+}
+
+.youtube_title {
+	font-weight:bold;
+	color:#000000;
+	line-height:30px;
+}
+
+.youtube_author {
+	font-weight:bold;
+	color:#000000;
+	line-height:20px;
+}
+
+.youtube_description {
+	color:#000000;
+}
+
+
+/**
+============================= 
+============================= SCHEDULE LIST ==========
+============================= 
+**/
+ul { 
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.schedule_row {
+	padding: 2px 0;
+}
+
+
+
+
+
+
+

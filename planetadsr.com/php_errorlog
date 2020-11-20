@@ -1,0 +1,162 @@
+[25-May-2020 10:35:43 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php:24
+Stack trace:
+#0 /home/codexdru/public_html/planetadsr.com/public/common.php(3): include_once()
+#1 /home/codexdru/public_html/planetadsr.com/index.php(1): include('/home/codexdru/...')
+#2 {main}
+  thrown in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php on line 24
+[25-May-2020 10:40:14 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php:24
+Stack trace:
+#0 /home/codexdru/public_html/planetadsr.com/public/common.php(3): include_once()
+#1 /home/codexdru/public_html/planetadsr.com/index.php(1): include('/home/codexdru/...')
+#2 {main}
+  thrown in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php on line 24
+[25-May-2020 10:40:18 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php:24
+Stack trace:
+#0 /home/codexdru/public_html/planetadsr.com/public/common.php(3): include_once()
+#1 /home/codexdru/public_html/planetadsr.com/index.php(1): include('/home/codexdru/...')
+#2 {main}
+  thrown in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php on line 24
+[25-May-2020 10:40:26 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php:24
+Stack trace:
+#0 /home/codexdru/public_html/planetadsr.com/public/common.php(3): include_once()
+#1 /home/codexdru/public_html/planetadsr.com/index.php(1): include('/home/codexdru/...')
+#2 {main}
+  thrown in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php on line 24
+[25-May-2020 10:41:17 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php:24
+Stack trace:
+#0 /home/codexdru/public_html/planetadsr.com/public/common.php(3): include_once()
+#1 /home/codexdru/public_html/planetadsr.com/index.php(1): include('/home/codexdru/...')
+#2 {main}
+  thrown in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php on line 24
+[25-May-2020 10:41:19 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php:24
+Stack trace:
+#0 /home/codexdru/public_html/planetadsr.com/public/common.php(3): include_once()
+#1 /home/codexdru/public_html/planetadsr.com/index.php(1): include('/home/codexdru/...')
+#2 {main}
+  thrown in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php on line 24
+[25-May-2020 10:41:19 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php:24
+Stack trace:
+#0 /home/codexdru/public_html/planetadsr.com/public/common.php(3): include_once()
+#1 /home/codexdru/public_html/planetadsr.com/index.php(1): include('/home/codexdru/...')
+#2 {main}
+  thrown in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php on line 24
+[25-May-2020 10:41:19 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php:24
+Stack trace:
+#0 /home/codexdru/public_html/planetadsr.com/public/common.php(3): include_once()
+#1 /home/codexdru/public_html/planetadsr.com/index.php(1): include('/home/codexdru/...')
+#2 {main}
+  thrown in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php on line 24
+[25-May-2020 10:41:21 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php:24
+Stack trace:
+#0 /home/codexdru/public_html/planetadsr.com/public/common.php(3): include_once()
+#1 /home/codexdru/public_html/planetadsr.com/index.php(1): include('/home/codexdru/...')
+#2 {main}
+  thrown in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php on line 24
+[25-May-2020 10:42:36 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php:24
+Stack trace:
+#0 /home/codexdru/public_html/planetadsr.com/public/common.php(3): include_once()
+#1 /home/codexdru/public_html/planetadsr.com/index.php(1): include('/home/codexdru/...')
+#2 {main}
+  thrown in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php on line 24
+[25-May-2020 10:42:44 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php:24
+Stack trace:
+#0 /home/codexdru/public_html/planetadsr.com/public/common.php(3): include_once()
+#1 /home/codexdru/public_html/planetadsr.com/index.php(1): include('/home/codexdru/...')
+#2 {main}
+  thrown in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php on line 24
+[25-May-2020 10:42:44 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php:24
+Stack trace:
+#0 /home/codexdru/public_html/planetadsr.com/public/common.php(3): include_once()
+#1 /home/codexdru/public_html/planetadsr.com/index.php(1): include('/home/codexdru/...')
+#2 {main}
+  thrown in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php on line 24
+[25-May-2020 10:42:45 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php:24
+Stack trace:
+#0 /home/codexdru/public_html/planetadsr.com/public/common.php(3): include_once()
+#1 /home/codexdru/public_html/planetadsr.com/index.php(1): include('/home/codexdru/...')
+#2 {main}
+  thrown in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php on line 24
+[25-May-2020 10:42:46 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php:24
+Stack trace:
+#0 /home/codexdru/public_html/planetadsr.com/public/common.php(3): include_once()
+#1 /home/codexdru/public_html/planetadsr.com/index.php(1): include('/home/codexdru/...')
+#2 {main}
+  thrown in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php on line 24
+[25-May-2020 10:42:46 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php:24
+Stack trace:
+#0 /home/codexdru/public_html/planetadsr.com/public/common.php(3): include_once()
+#1 /home/codexdru/public_html/planetadsr.com/index.php(1): include('/home/codexdru/...')
+#2 {main}
+  thrown in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php on line 24
+[25-May-2020 10:42:46 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php:24
+Stack trace:
+#0 /home/codexdru/public_html/planetadsr.com/public/common.php(3): include_once()
+#1 /home/codexdru/public_html/planetadsr.com/index.php(1): include('/home/codexdru/...')
+#2 {main}
+  thrown in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php on line 24
+[25-May-2020 10:42:46 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php:24
+Stack trace:
+#0 /home/codexdru/public_html/planetadsr.com/public/common.php(3): include_once()
+#1 /home/codexdru/public_html/planetadsr.com/index.php(1): include('/home/codexdru/...')
+#2 {main}
+  thrown in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php on line 24
+[25-May-2020 10:42:46 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php:24
+Stack trace:
+#0 /home/codexdru/public_html/planetadsr.com/public/common.php(3): include_once()
+#1 /home/codexdru/public_html/planetadsr.com/index.php(1): include('/home/codexdru/...')
+#2 {main}
+  thrown in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php on line 24
+[25-May-2020 10:42:47 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php:24
+Stack trace:
+#0 /home/codexdru/public_html/planetadsr.com/public/common.php(3): include_once()
+#1 /home/codexdru/public_html/planetadsr.com/index.php(1): include('/home/codexdru/...')
+#2 {main}
+  thrown in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php on line 24
+[25-May-2020 10:42:48 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php:24
+Stack trace:
+#0 /home/codexdru/public_html/planetadsr.com/public/common.php(3): include_once()
+#1 /home/codexdru/public_html/planetadsr.com/index.php(1): include('/home/codexdru/...')
+#2 {main}
+  thrown in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php on line 24
+[25-May-2020 10:42:48 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php:24
+Stack trace:
+#0 /home/codexdru/public_html/planetadsr.com/public/common.php(3): include_once()
+#1 /home/codexdru/public_html/planetadsr.com/index.php(1): include('/home/codexdru/...')
+#2 {main}
+  thrown in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php on line 24
+[25-May-2020 10:42:48 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php:24
+Stack trace:
+#0 /home/codexdru/public_html/planetadsr.com/public/common.php(3): include_once()
+#1 /home/codexdru/public_html/planetadsr.com/index.php(1): include('/home/codexdru/...')
+#2 {main}
+  thrown in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php on line 24
+[25-May-2020 10:42:48 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php:24
+Stack trace:
+#0 /home/codexdru/public_html/planetadsr.com/public/common.php(3): include_once()
+#1 /home/codexdru/public_html/planetadsr.com/index.php(1): include('/home/codexdru/...')
+#2 {main}
+  thrown in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php on line 24
+[25-May-2020 10:42:48 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php:24
+Stack trace:
+#0 /home/codexdru/public_html/planetadsr.com/public/common.php(3): include_once()
+#1 /home/codexdru/public_html/planetadsr.com/index.php(1): include('/home/codexdru/...')
+#2 {main}
+  thrown in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php on line 24
+[25-May-2020 10:42:48 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php:24
+Stack trace:
+#0 /home/codexdru/public_html/planetadsr.com/public/common.php(3): include_once()
+#1 /home/codexdru/public_html/planetadsr.com/index.php(1): include('/home/codexdru/...')
+#2 {main}
+  thrown in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php on line 24
+[25-May-2020 10:43:57 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php:24
+Stack trace:
+#0 /home/codexdru/public_html/planetadsr.com/public/common.php(3): include_once()
+#1 /home/codexdru/public_html/planetadsr.com/index.php(1): include('/home/codexdru/...')
+#2 {main}
+  thrown in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php on line 24
+[25-May-2020 10:44:00 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php:24
+Stack trace:
+#0 /home/codexdru/public_html/planetadsr.com/public/common.php(3): include_once()
+#1 /home/codexdru/public_html/planetadsr.com/index.php(1): include('/home/codexdru/...')
+#2 {main}
+  thrown in /home/codexdru/public_html/planetadsr.com/admin/include/db_conn.php on line 24

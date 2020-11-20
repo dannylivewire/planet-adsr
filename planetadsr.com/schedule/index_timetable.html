@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<title>Tiva Timetable</title>
+		
+		<!------------ Assets for Tiva Timetable ------------->
+		<!-- Timetable Font -->
+		<link href='https://fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css' />
+		
+		<!-- Timetable CSS Files -->
+		<link rel="stylesheet" href="assets/css/magnific-popup.css">
+		<link rel="stylesheet" href="assets/css/timetable.css">
+		
+		<!-- Timetable JS Files -->
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/jquery.magnific-popup.js"></script>
+		<script src="assets/js/timetable.js"></script>
+		<!--------------------------------------------------->
+		
+		<!-- CSS Files for example -->
+		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
+		<link rel="stylesheet" href="assets/css/font-awesome.min.css">
+		<link rel="stylesheet" href="assets/css/style.css">
+	</head>
+	
+	<body>
+		<div class="container">
+			<div class="col-md-12">
+				<div class="header">
+					<div class="header-big">Tiva Timetable</div>
+					<div class="header-small">A truly responsive schedule javascript library.</div>
+				</div>
+				
+				<div class="content">
+					<div class="section">
+						<h2>Introduction</h2>
+						<p>Tiva Timetable is a responsive schedule javascript library with clean and modern flat interface. It is very easy to use yet gives plenty of features and styling options. You can use it for any kind of schedule or events calendar. 
+						<div class="timetable-example">
+							<div class="tiva-timetable" data-view="week" data-mode="day"></div>
+						</div>
+					</div>
+					
+					<div class="section" id="features">
+						<h2>Features</h2>
+						<p>Tiva Timetable has many good features for your demand</p>
+						<div class="features-list">
+							<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="padding:0">
+								<img class="img-responsive" src="images/tiva_timetable.png" alt="Tiva Timetable Features" />
+							</div>
+							<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+								<div class="features-item">
+									<div class="features-icon">
+										<i class="fa fa-tablet"></i>
+									</div>
+									<div class="features-content">
+										<h3>Fully Responsive</h3>
+										<p>Tiva Timetable is fully responsive and mobile friendly. It display fine on mobile devices.</p>
+									</div>
+								</div>
+								<div class="features-item">
+									<div class="features-icon">
+										<i class="fa fa-gear"></i>
+									</div>
+									<div class="features-content">
+										<h3>Easy To Setup</h3>
+										<p>It is so easy to use Tiva Timetable. Just include some css and js files, then display the calendar by html shortcode.</p>
+									</div>
+								</div>
+								<div class="features-item">
+									<div class="features-icon">
+										<i class="fa fa-paint-brush"></i>
+									</div>
+									<div class="features-content">
+										<h3>Easy To Customize</h3>
+										<p>There are options for you to customize the timetable like show/hide navigation, start on monday or sunday, ...</p>
+									</div>
+								</div>
+								<div class="features-item">
+									<div class="features-icon">
+										<i class="fa fa-file-text"></i>
+									</div>
+									<div class="features-content">
+										<h3>Timetable Source</h3>
+										<p>You can manage timetables in json file or feed from your database via php file with ajax.</p>
+									</div>
+								</div>
+								<div class="features-item">
+									<div class="features-icon">
+										<i class="fa fa-th"></i>
+									</div>
+									<div class="features-content">
+										<h3>Layouts</h3>
+										<p>There are 3 layouts for your choice: month, week and list.</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					
+					<div class="section" id="usage">
+						<h2>Usage</h2>
+						<p>It is so easy to setup and use Tiva Timetable. Just include some css and js files (If your website has already jquery and magnific popup, don't need include them again), then display Tiva Timetable by using html shortcode</p>
+						<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 usage-column">
+							<div class="code-header">Include CSS and JS files</div>
+							<div class="code">
+								<span class="code-comment"><span><</span>!-- Timetable CSS Files --></span><br>
+								<<span class="code-title">link</span> <span class="code-attribute">rel</span>="<span class="code-value">stylesheet</span>" <span class="code-attribute">href</span>="<span class="code-value">assets/css/magnific-popup.css</span>"><br>
+								<<span class="code-title">link</span> <span class="code-attribute">rel</span>="<span class="code-value">stylesheet</span>" <span class="code-attribute">href</span>="<span class="code-value">assets/css/timetable.css</span>"><br>
+								<br>
+								<span class="code-comment"><span><</span>!-- Timetable JS Files --></span><br>
+								<<span class="code-title">script</span> <span class="code-attribute">src</span>="<span class="code-value">assets/js/jquery.min.js</span>"></script><br>
+								<<span class="code-title">script</span> <span class="code-attribute">src</span>="<span class="code-value">assets/js/jquery.magnific-popup.js</span>"></script><br>
+								<<span class="code-title">script</span> <span class="code-attribute">src</span>="<span class="code-value">assets/js/timetable.js</span>"></script><br>
+							</div>
+						</div>
+						<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 usage-column">
+							<div class="code-header">Display by using html shortcode:</div>
+							<div class="code">
+								<<span class="code-title">div</span> <span class="code-attribute">class</span>="<span class="code-value">tiva-timetable</span>" <span class="code-attribute">data-source</span>="<span class="code-value">json</span>" <span class="code-attribute">data-view</span>="<span class="code-value">week</span>"><<span class="code-title">/div</span>>
+								<br><br>
+								<span class="code-comment"><span><</span>!-- Params: --></span><br>
+								<span class="code-comment"><span><</span>!-- data-source : source of timetables. There are 2 options : json (feed timetables from json file) and php (feed timetables from your database via php file). Default value : json. --></span><br>
+								<span class="code-comment"><span><</span>!-- data-view : layout of timetables. There are 3 options : month, week, list. Default value : month. --></span>
+							</div>
+						</div>
+					</div>
+					
+					<div class="section" id="monthly-view">
+						<h2>Monthly View</h2>
+						<p>Display all your timetables via month.</p>
+						<div class="timetable-example">
+							<div class="tiva-timetable"></div>
+						</div>
+					</div>
+					
+					<div class="section" id="weekly-view">
+						<h2>Weekly View</h2>
+						<p>Display all your timetables via week. You can use as day schedule (repeat on every week) or as specific date (like monthly view).</p>
+						<div class="timetable-example">
+							<div class="tiva-timetable" data-view="week"></div>
+						</div>
+					</div>
+					
+					<div class="section" id="list-view">
+						<h2>List View</h2>
+						<p>Display all your timetables on list. You can use as day schedule (repeat on every week) or as specific date (like monthly view).</p>
+						<div class="timetable-example">
+							<div class="tiva-timetable" data-view="list" data-mode="day"></div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="footer">
+					<div class="product-name">Tiva Timetable - Responsive Schedule Javascript Library</div>
+					<div>© 2016 by TivaTheme. All rights reserved.</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
